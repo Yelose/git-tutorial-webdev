@@ -74,3 +74,5 @@ git config --list
 
 👉 Ve ahora a la [lección 02 - Comandos básicos](../02-comandos-basicos) para comenzar a usar Git.
 
+
+---
