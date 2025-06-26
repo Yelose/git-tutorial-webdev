@@ -140,8 +140,7 @@ git log                   # Ver historial de cambios
 
 ---
 
-👉 Siguiente lección: [03 - Repos remotos en GitHub](https://github.com/Yelose/git-tutorial-webdev/blob/main/03-Rutas-y-repos-remotos/README.md)
+👉 Siguiente lección: [03 - Repos remotos en GitHub](https://github.com/Yelose/git-tutorial-webdev/blob/main/03-rutas-y-repos-remotos/README.md)
 
-```
 
----
+
