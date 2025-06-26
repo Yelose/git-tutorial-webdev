@@ -29,7 +29,7 @@ Antes de empezar, asegúrate de tener lo siguiente instalado:
 
 | Paso | Tema | Qué aprenderás |
 |------|------|----------------|
-| 01 | [Instalación y configuración](https://github.com/Yelose/git-tutorial-webdev/blob/main/01-instalacion-y-configuracion/README.md) | Cómo instalar Git, configurarlo y preparar tu entorno. |
+| 01 | [Instalación y configuración](https://github.com/Yelose/git-tutorial-webdev/blob/main/01-Instalacion-y-configuracion/README.md) | Cómo instalar Git, configurarlo y preparar tu entorno. |
 | 02 | [Comandos básicos](https://github.com/Yelose/git-tutorial-webdev/blob/main/02-comandos-basicos/README.md) | Iniciar un repositorio, hacer commits, ver historial. |
 | 03 | [Repos remotos](https://github.com/Yelose/git-tutorial-webdev/blob/main/03-rutas-y-repos-remotos/README.md) | Enlazar tu proyecto local con GitHub y subir tus archivos. |
 | 04 | [Ramas y colaboración](https://github.com/Yelose/git-tutorial-webdev/blob/main/04-ramas-y-colaboracion/README.md) | Crear ramas, fusionarlas, trabajar en equipo. |
