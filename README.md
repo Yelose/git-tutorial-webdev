@@ -29,11 +29,11 @@ Antes de empezar, asegúrate de tener lo siguiente instalado:
 
 | Paso | Tema | Qué aprenderás |
 |------|------|----------------|
-| 01 | [Instalación y configuración](https://github.com/Yelose/git-tutorial-webdev/blob/main/01-Instalacion-y-configuracion/README.md) | Cómo instalar Git, configurarlo y preparar tu entorno. |
-| 02 | [Comandos básicos](https://github.com/Yelose/git-tutorial-webdev/blob/main/02-Comandos-basicos/README.md) | Iniciar un repositorio, hacer commits, ver historial. |
-| 03 | [Repos remotos](https://github.com/Yelose/git-tutorial-webdev/blob/main/03-Rutas-y-repos-remotos/README.md) | Enlazar tu proyecto local con GitHub y subir tus archivos. |
-| 04 | [Ramas y colaboración](https://github.com/Yelose/git-tutorial-webdev/blob/main/04-Ramas-y-colaboracion/README.md) | Crear ramas, fusionarlas, trabajar en equipo. |
-| 05 | [Publicar tu web](https://github.com/Yelose/git-tutorial-webdev/blob/main/05-Publicar-proyecto-html/README.md) | Usar GitHub Pages para mostrar tu proyecto en Internet. |
+| 01 | [Instalación y configuración](https://github.com/Yelose/git-tutorial-webdev/blob/main/01-instalacion-y-configuracion/README.md) | Cómo instalar Git, configurarlo y preparar tu entorno. |
+| 02 | [Comandos básicos](https://github.com/Yelose/git-tutorial-webdev/blob/main/02-comandos-basicos/README.md) | Iniciar un repositorio, hacer commits, ver historial. |
+| 03 | [Repos remotos](https://github.com/Yelose/git-tutorial-webdev/blob/main/03-rutas-y-repos-remotos/README.md) | Enlazar tu proyecto local con GitHub y subir tus archivos. |
+| 04 | [Ramas y colaboración](https://github.com/Yelose/git-tutorial-webdev/blob/main/04-ramas-y-colaboracion/README.md) | Crear ramas, fusionarlas, trabajar en equipo. |
+| 05 | [Publicar tu web](https://github.com/Yelose/git-tutorial-webdev/blob/main/05-publicar-proyecto-html/README.md) | Usar GitHub Pages para mostrar tu proyecto en Internet. |
 | Ejercicios | [Prácticas guiadas](https://github.com/Yelose/git-tutorial-webdev/blob/main/ejercicios/README.md) | Actividades para afianzar los conocimientos con tus propios proyectos. |
 
 
