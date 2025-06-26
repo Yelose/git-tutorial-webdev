@@ -27,12 +27,12 @@ Antes de empezar, asegúrate de tener lo siguiente instalado:
 
 | Paso | Tema | Qué aprenderás |
 |------|------|----------------|
-| 01 | [Instalación y configuración](./01-instalacion-y-configuracion) | Cómo instalar Git, configurarlo y preparar tu entorno. |
-| 02 | [Comandos básicos](./02-comandos-basicos) | Iniciar un repositorio, hacer commits, ver historial. |
-| 03 | [Repos remotos](./03-rutas-y-repos-remotos) | Enlazar tu proyecto local con GitHub y subir tus archivos. |
-| 04 | [Ramas y colaboración](./04-ramas-y-colaboracion) | Crear ramas, fusionarlas, trabajar en equipo. |
-| 05 | [Publicar tu web](./05-publicar-proyecto-html) | Usar GitHub Pages para mostrar tu proyecto en Internet. |
-| Ejercicios | [Prácticas guiadas](./ejercicios) | Actividades para afianzar los conocimientos con tus propios proyectos. |
+| 01 | [Instalación y configuración](01-instalacion-y-configuracion/README.md) | Cómo instalar Git, configurarlo y preparar tu entorno. |
+| 02 | [Comandos básicos](02-comandos-basicos/README.md) | Iniciar un repositorio, hacer commits, ver historial. |
+| 03 | [Repos remotos](03-rutas-y-repos-remotos/README.md) | Enlazar tu proyecto local con GitHub y subir tus archivos. |
+| 04 | [Ramas y colaboración](04-ramas-y-colaboracion/README.md) | Crear ramas, fusionarlas, trabajar en equipo. |
+| 05 | [Publicar tu web](05-publicar-proyecto-html/README.md) | Usar GitHub Pages para mostrar tu proyecto en Internet. |
+| Ejercicios | [Prácticas guiadas](ejercicios/README.md) | Actividades para afianzar los conocimientos con tus propios proyectos. |
 
 ---
 
