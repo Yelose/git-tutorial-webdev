@@ -1,7 +1,3 @@
-Aquí tienes un primer borrador del `README.md` raíz para tu proyecto `git-tutorial-webdev`, diseñado para una clase de introducción a Git y GitHub para estudiantes de desarrollo web:
-
----
-
 # 🧠 Git Tutorial para Estudiantes de Desarrollo Web
 
 Este repositorio es un **tutorial práctico paso a paso** para aprender a utilizar Git y GitHub desde cero. Está pensado para ayudarte a **guardar tus proyectos de HTML, CSS y JavaScript** durante el curso de desarrollo de páginas web.
