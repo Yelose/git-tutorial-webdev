@@ -133,3 +133,28 @@ Estos comandos no se han cubierto en el curso, pero son muy usados en entornos p
 
 🧠 Aprender estos comandos te permitirá trabajar en proyectos más grandes y con equipos de forma profesional.
 
+¡Claro! Aquí tienes una sección final para añadir al archivo `resumen/README.md` bajo el título **"🧑‍🏫 Recomendación personal"**, tal como lo pedirías a tu alumnado en clase:
+
+---
+
+
+## 🧑‍🏫 Recomendación personal
+
+Aunque Git tiene comandos muy potentes como `git checkout`, te recomiendo lo siguiente:
+
+- Usa `git switch` para **cambiar de ramas**.
+- Usa `git restore` para **deshacer cambios en archivos**.
+
+### ¿Por qué?
+
+Porque `git checkout` puede causar errores si no se usa bien. Por ejemplo:
+
+- Si tienes cambios sin guardar (archivos que han sido modificados en tu editor, pero todavía no se han añadido con git add y por tanto no están incluídos en ningún commit) y haces `git checkout otra-rama`, Git puede **intentar hacer un merge automático sin avisar**.
+- También puedes sobrescribir archivos sin darte cuenta.
+
+🧠 **En resumen**:
+> ✅ Usa `switch` para moverte entre ramas, y  
+> ✅ Usa `restore` para volver atrás en un archivo.  
+> ❌ Evita `checkout` si no tienes claro lo que hace.
+
+Esto te ahorrará problemas en proyectos reales o en equipo.
