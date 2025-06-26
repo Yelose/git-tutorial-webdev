@@ -1,57 +1,76 @@
-Aquí tienes un primer borrador del `README.md` raíz para tu proyecto `git-tutorial-webdev`, diseñado para una clase de introducción a Git y GitHub para estudiantes de desarrollo web:
+# 01 - Instalación y Configuración de Git
+
+Antes de empezar a usar Git, tenemos que instalarlo en nuestro ordenador y configurarlo por primera vez.
 
 ---
 
-# 🧠 Git Tutorial para Estudiantes de Desarrollo Web
+## 🧩 1. Instalar Git
 
-Este repositorio es un **tutorial práctico paso a paso** para aprender a utilizar Git y GitHub desde cero. Está pensado para ayudarte a **guardar tus proyectos de HTML, CSS y JavaScript** durante el curso de desarrollo de páginas web.
+### 🔵 Windows
+1. Ve a: [https://git-scm.com/download/win](https://git-scm.com/download/win)
+2. Descarga el instalador.
+3. Ejecuta el archivo `.exe` descargado.
+4. Deja las opciones por defecto y pulsa “Siguiente” hasta que se instale si eres principiante.
 
-## 🎯 Objetivo del curso
+### 🍎 macOS
+1. Abre la terminal y escribe:
+   ```bash
+   git --version
+   ```
 
-- Aprender a usar Git para llevar el control de versiones de tus proyectos.
-- Subir tus proyectos a GitHub y compartirlos con el mundo.
-- Conocer los comandos básicos que se usan en el entorno profesional.
-- Practicar con ejercicios reales mientras aprendes.
+2. Si no está instalado, macOS te ofrecerá instalarlo con Xcode Command Line Tools.
 
-## 🧰 Requisitos
+O bien puedes descargarlo desde [https://git-scm.com/download/mac](https://git-scm.com/download/mac)
 
-Antes de empezar, asegúrate de tener lo siguiente instalado:
+### 🐧 Linux (Debian, Ubuntu...)
 
-- [Git](https://git-scm.com/downloads)
-- Un editor de código como [Visual Studio Code](https://code.visualstudio.com/)
-- Una cuenta en [GitHub](https://github.com/)
-
----
-
-## 📚 Contenido del tutorial
-
-| Paso | Tema | Qué aprenderás |
-|------|------|----------------|
-| 01 | [Instalación y configuración](./01-instalacion-y-configuracion) | Cómo instalar Git, configurarlo y preparar tu entorno. |
-| 02 | [Comandos básicos](./02-comandos-basicos) | Iniciar un repositorio, hacer commits, ver historial. |
-| 03 | [Repos remotos](./03-rutas-y-repos-remotos) | Enlazar tu proyecto local con GitHub y subir tus archivos. |
-| 04 | [Ramas y colaboración](./04-ramas-y-colaboracion) | Crear ramas, fusionarlas, trabajar en equipo. |
-| 05 | [Publicar tu web](./05-publicar-proyecto-html) | Usar GitHub Pages para mostrar tu proyecto en Internet. |
-| Ejercicios | [Prácticas guiadas](./ejercicios) | Actividades para afianzar los conocimientos con tus propios proyectos. |
+```bash
+sudo apt update
+sudo apt install git
+```
 
 ---
 
-## 💡 Consejos para tus primeros pasos
+## ⚙️ 2. Configurar Git por primera vez
 
-- **Haz muchos commits**: Guarda tu progreso con frecuencia.
-- **Usa nombres claros** en tus mensajes de commit.
-- **No tengas miedo de equivocarte**: Git guarda todo por ti.
-- **Explora y experimenta**: aprender Git lleva práctica.
+Una vez instalado, debes indicarle a Git quién eres. Abre la terminal y escribe:
+
+```bash
+git config --global user.name "Tu Nombre"
+git config --global user.email "tucorreo@example.com"
+```
+
+Puedes comprobar que se ha guardado correctamente con:
+
+```bash
+git config --list
+```
+
+---
+
+## 📂 3. Crear una carpeta de práctica
+
+1. Crea una carpeta donde guardarás tus proyectos de prueba:
+
+   * Por ejemplo: `git-ejercicios`
+
+2. Entra en esa carpeta desde la terminal:
+
+   ```bash
+   cd ruta/a/git-ejercicios
+   ```
+
+3. ¡Ya puedes iniciar tu primer repositorio en la siguiente lección!
 
 ---
 
-## 🧑‍🏫 Para qué sirve esto en el mundo real
+## 🧠 Recuerda
 
-Saber usar Git y GitHub te abrirá puertas en tu futuro profesional. Es una de las habilidades más valoradas en cualquier puesto relacionado con el desarrollo web o el trabajo en equipo con código.
-
----
-
-¡Empezamos! 🚀
+* Estos datos (`user.name` y `user.email`) aparecerán en cada commit que hagas.
+* Sólo necesitas configurarlos una vez si usas `--global`.
+* Puedes cambiarlos cuando quieras con los mismos comandos.
 
 ---
+
+👉 Ve ahora a la [lección 02 - Comandos básicos](../02-comandos-basicos) para comenzar a usar Git.
 
