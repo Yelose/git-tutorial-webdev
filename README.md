@@ -21,8 +21,6 @@ Antes de empezar, asegúrate de tener lo siguiente instalado:
 
 ## 📚 Contenido del tutorial
 
-## 📚 Contenido del tutorial
-
 | Paso | Tema | Qué aprenderás |
 |------|------|----------------|
 | 01 | [Instalación y configuración](https://github.com/Yelose/git-tutorial-webdev/blob/main/01-Instalacion-y-configuracion/README.md) | Cómo instalar Git, configurarlo y preparar tu entorno. |
